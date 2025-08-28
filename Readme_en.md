@@ -11,7 +11,7 @@
 The framework is designed for teams aiming for **fast iteration** and wanting to use AI platforms to transform an idea into a product with minimal time and financial costs.
 
 <div align="center">
-  <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="250"/>
+  <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="100"/>
   <h3>`C` - Context</h3>
   <h3>`R` - Research</h3>
   <h3>`E` - Elaboration</h3>

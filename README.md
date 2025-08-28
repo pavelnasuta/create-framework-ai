@@ -11,7 +11,7 @@
 Фреймворк разработан для команд, которые стремятся к **быстрой итерации** и хотят использовать AI-платформы, чтобы превратить идею в продукт с минимальными временными и финансовыми затратами.
 
 <div align="center">
-  <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="250"/>
+  <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="100"/>
   <h3>`C` - Context</h3>
   <h3>`R` - Research</h3>
   <h3>`E` - Elaboration</h3>
