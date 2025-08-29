@@ -55,4 +55,4 @@ Let's build the future of product development together!
 
 A huge shoutout to the folks who’ve helped make this project shine! Special thanks to:
 
-- **Eugene Leontev** [](https://github.com/madmatvey) for his unwavering support and patience.
+- **Eugene Leontev** [GitHub](https://github.com/madmatvey) for his unwavering support and patience.
