@@ -50,3 +50,9 @@ The framework consists of six sequential yet flexible stages, each with its own 
 We are open to all suggestions and improvements. If you have ideas for improving prompts, new prompts, or suggestions for the structure, please read our guide on how to contribute: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 Let's build the future of product development together!
+
+## Acknowledgments
+
+A huge shoutout to the folks who’ve helped make this project shine! Special thanks to:
+
+- **Eugene Leontev** [](https://github.com/madmatvey) for his unwavering support and patience.
