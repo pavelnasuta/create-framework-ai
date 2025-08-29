@@ -10,6 +10,14 @@
 
 The framework is designed for teams aiming for **fast iteration** and wanting to use AI platforms to transform an idea into a product with minimal time and financial costs.
 
+## General Overview of the Methodology
+
+CREATE is not just a collection of prompts—it’s a holistic methodology that transforms a chaotic idea into a profitable and scalable web service, with artificial intelligence as the central tool. It was designed to tackle one of the biggest challenges when working with large language models (LLMs): the loss of context.
+
+Neural networks, especially when handling complex, multi-stage tasks, often operate "in the moment." They can generate brilliant text or code for a single prompt but forget the details and nuances mentioned earlier. This leads to fragmentation, loss of logic, and, as a result, the creation of disjointed, non-viable "artifacts" instead of a cohesive product.
+
+CREATE solves this problem by turning the process into a unified, consistent chain. It’s like a thread of product strategy onto which we string beads of artifacts. Each "bead" is the result of working on one of the framework’s stages (e.g., mission, values, competitor analysis). Most importantly, each subsequent prompt uses the outputs of the previous one as its inputs. This way, the AI model constantly "remembers" the accumulated context, and each new step flows organically from the previous one.
+
 <div align="center">
   <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="100"/>
   <h3>`C` - Context</h3>
