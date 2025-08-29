@@ -1,14 +1,14 @@
-# 🚀 CREATE: Фреймворк для разработки WEB продуктов с использованием AI
+# 🚀 CREATE: An AI-Powered Framework for Web Product Development
 
-**CREATE** — это универсальная, гибкая методология, которая превращает хаотичную идею в прибыльный и масштабируемый веб-сервис.
+**CREATE** is a versatile, flexible methodology that turns a chaotic idea into a profitable and scalable web service.
 
 🌐 **Choose your language:**
-- [Русский](README.md)
-- [English](README_en.md)
+- [Русский](README_ru.md)
+- [English](README.md)
 
 ---
 
-Фреймворк разработан для команд, которые стремятся к **быстрой итерации** и хотят использовать AI-платформы, чтобы превратить идею в продукт с минимальными временными и финансовыми затратами.
+The framework is designed for teams aiming for **fast iteration** and wanting to use AI platforms to transform an idea into a product with minimal time and financial costs.
 
 <div align="center">
   <img src="docs/assets/create_logo.png" alt="CREATE Framework Logo" width="100"/>
@@ -20,25 +20,25 @@
   <h3>`E` - Expansion</h3>
 </div>
 
-## ✨ Основные принципы
+## ✨ Core Principles
 
-- **AI-Driven**: AI выступает не просто как инструмент, а как полноценный партнер на каждом этапе разработки, от анализа рынка до оптимизации бизнес-метрик.
-- **Fast Iteration**: Мы верим в быструю проверку гипотез, используя No-Code и AI-инструменты, чтобы найти рабочую идею до того, как тратить ресурсы на полноценную разработку.
-- **Community-Powered**: Фреймворк — это живой организм, который постоянно развивается. Мы, как и вы, — команда энтузиастов, которые постоянно ищут новые способы применения AI в разработке продуктов. Ваши предложения, правки и новые идеи для промптов — это то, что позволит нашему фреймворку расти и адаптироваться к постоянно меняющемуся миру технологий.
+-   **AI-Driven**: AI acts not just as a tool but as a full-fledged partner at every stage of development, from market analysis to business metric optimization.
+-   **Fast Iteration**: We believe in quickly testing hypotheses using No-Code and AI tools to find a working idea before investing resources in full-scale development.
+-   **Community-Powered**: The framework is a living organism that is constantly evolving. We, like you, are a team of enthusiasts who are constantly looking for new ways to apply AI in product development. Your suggestions, edits, and new ideas for prompts are what will allow our framework to grow and adapt to the ever-changing world of technology.
 
-## 🛠️ Как это работает?
+## 🛠️ How it Works
 
-Фреймворк состоит из шести последовательных, но гибких этапов, каждая из которых имеет свою цель и набор промптов для AI-ассистента:
+The framework consists of six sequential yet flexible stages, each with its own goal and set of prompts for an AI assistant:
 
-1.  **[C - Context](docs/ru/C-Context.md)**: Определить эмоциональное ядро продукта и его фундаментальную идею.
-2.  **[R - Research](docs/ru/R-Research.md)**: Переключиться с интуиции на данные.
-3.  **[E - Elaboration](docs/ru/E-Elaboration.md)**: Быстро тестировать гипотезы с помощью AI и No-Code инструментов.
-4.  **[A - Assembly](docs/ru/A-Assembly.md)**: Построить масштабируемый продукт, собрав все готовые компоненты.
-5.  **[T - Tuning](docs/ru/T-Tuning.md)**: Валидировать продукт и найти точки роста.
-6.  **[E - Expansion](docs/ru/E-Expansion.md)**: Масштабировать продукт и бизнес, делая AI стратегическим партнером.
+1.  **[C - Context](docs/en/C-Context.md)**: Define the emotional core of the product and its fundamental idea.
+2.  **[R - Research](docs/en/R-Research.md)**: Shift from intuition to data.
+3.  **[E - Elaboration](docs/en/E-Elaboration.md)**: Rapidly test hypotheses with AI and No-Code tools.
+4.  **[A - Assembly](docs/en/A-Assembly.md)**: Build a scalable product by assembling all the ready-made components.
+5.  **[T - Tuning](docs/en/T-Tuning.md)**: Validate the product and find growth opportunities.
+6.  **[E - Expansion](docs/en/E-Expansion.md)**: Scale the product and business, making AI a strategic partner.
 
-## 🤝 Вклад в проект
+## 🤝 Contributing
 
-Мы открыты для любых предложений и улучшений. Если у вас есть идеи по улучшению промптов, новые промпты или предложения по структуре, пожалуйста, ознакомьтесь с нашим гайдом по внесению вклада в проект: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+We are open to all suggestions and improvements. If you have ideas for improving prompts, new prompts, or suggestions for the structure, please read our guide on how to contribute: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
-Давайте создавать будущее продуктовой разработки вместе!
+Let's build the future of product development together!

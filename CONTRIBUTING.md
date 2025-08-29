@@ -1,3 +1,32 @@
+🤝 How to Contribute to the CREATE Project
+We’re thrilled that you want to join us! The CREATE framework is a living, breathing entity, and it grows thanks to enthusiasts like you. Your ideas, edits, and suggestions are the fuel for our progress.
+📝 Types of Contributions
+You can contribute in the following ways:
+
+Improving Existing Prompts: If you’ve found a way to make a prompt more effective, clearer, or add new inputs, feel free to suggest edits.
+Adding New Prompts: Got an idea for a new prompt that could enhance any stage of the framework? Create a new file and describe it.
+Adding Examples: You can add examples of completed prompts to help other users.
+Fixing Errors: Typos, grammatical mistakes, or inaccuracies in descriptions — all of these can be fixed.
+Translation: We’d be super grateful if you could help translate the framework into other languages. If you want to add a translation for a new language, create a new folder in docs/ and prompts/ (e.g., /docs/es and /prompts/es).
+
+💡 Process for Making Changes
+
+Fork the Repository: Start by creating your own copy of the repository.
+Create a New Branch: Name it based on what you’re changing (e.g., feat/new-prompt-research or fix/typo-in-readme).
+Make Your Changes: Apply your edits. If you’re adding a new prompt, follow the structure: prompts/[Language]/[Stage]/[number]-[name].md.
+Commit Your Changes: Describe your changes in the commit message. Please use meaningful commit names.
+Create a Pull Request: Submit a Pull Request to the main main branch. In the PR description, please explain in detail what you changed and why.
+
+🖋️ Formatting Guidelines
+
+Use Markdown for formatting.
+Be concise but informative.
+Use clear and descriptive names for files and branches.
+
+We’ll review your Pull Request as soon as possible and will definitely get in touch with you.
+Thank you for helping us shape the future of product development!
+
+
 # 🤝 Как внести вклад в проект CREATE
 
 Мы очень рады, что вы хотите присоединиться к нам! Фреймворк CREATE — это живой организм, и он растет благодаря таким энтузиастам, как вы. Ваши идеи, правки и предложения — это топливо для нашего развития.
